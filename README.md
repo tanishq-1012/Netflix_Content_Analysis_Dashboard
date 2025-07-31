@@ -34,6 +34,8 @@ netflix-dashboard/
 git clone https://github.com/your-username/netflix-dashboard.git
 cd netflix-dashboard
 
-## Install dependencies
+### 2. Install dependencies
 
 pip install -r requirements.txt
+
+3. Run the dashboard
