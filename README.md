@@ -26,3 +26,14 @@ netflix-dashboard/
 ├── netflix_content_2023.csv # Sample dataset
 ├── requirements.txt # Dependencies
 └── README.md # Project documentation
+
+## 🚀 Installation & Run Locally
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/netflix-dashboard.git
+cd netflix-dashboard
+
+## Install dependencies
+
+pip install -r requirements.txt
