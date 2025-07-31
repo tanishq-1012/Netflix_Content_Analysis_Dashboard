@@ -48,3 +48,43 @@ The sample dataset netflix_content_2023.csv includes the following columns:
 
 Title, Language, Release_Date, Views, Duration, etc.
 Used to explore patterns in global content consumption and release strategies.
+
+⚙️ Features Explained
+
+Plot Type	Description
+📊 Bar Charts	Most viewed content by language, month, and season
+🍕 Pie Charts	Distribution of views across languages and days
+📈 Line Graph	Weekly and holiday trends
+🗺️ Heatmaps	Correlation matrix for numerical variables
+🧩 Interactivity	Sidebar filters for dataset control and custom uploads
+📦 Requirements
+
+streamlit>=1.25.0
+pandas>=1.5.0
+plotly>=5.20.0
+numpy>=1.23.0
+🧠 Use Cases
+
+Media analytics and trend forecasting
+Content planning and scheduling
+Viewer behavior research
+Business insights for OTT platforms
+📝 License
+
+This project is licensed under the MIT License.
+
+🙌 Acknowledgments
+
+Dataset: Custom structured Netflix dataset for internal analysis.
+
+🤝 Contributing
+
+Want to contribute? Feel free to fork the repo and submit a pull request!
+
+
+---
+
+Let me know if you want:
+- A badge for deployment status
+- A walkthrough GIF or screenshots
+- Contribution or issue templates for GitHub
