@@ -1,0 +1,22 @@
+
+ app.py
+ -------------------------------------------------------------
+ Netflix Content Strategy Analysis — Interactive Streamlit Dashboard
+ Author: Tanishq Sharma
+ -------------------------------------------------------------
+
+streamlit==1.36.0
+pandas>=1.5.0
+plotly>=5.20.0
+numpy>=1.23.0
+
+
+--------------------------
+How to Run
+--------------------------
+1) Create and activate a virtual environment (recommended)
+2) Install dependencies
+pip install -r requirements.txt
+3) Run the dashboard
+streamlit run app.py
+4) Open the URL Streamlit prints in your terminal (usually http://localhost:8501)
