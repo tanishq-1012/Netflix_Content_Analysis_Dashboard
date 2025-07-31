@@ -39,3 +39,12 @@ cd netflix-dashboard
 pip install -r requirements.txt
 
 3. Run the dashboard
+
+streamlit run app.py
+
+# 📂 Dataset
+
+The sample dataset netflix_content_2023.csv includes the following columns:
+
+Title, Language, Release_Date, Views, Duration, etc.
+Used to explore patterns in global content consumption and release strategies.
